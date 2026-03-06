@@ -1,3 +1,9 @@
 body{
     background-color: blueviolet;
+    padding: 5%;
+    text-align: center;
+}
+
+.atividade_descricao{
+    text-align:justify;
 }
